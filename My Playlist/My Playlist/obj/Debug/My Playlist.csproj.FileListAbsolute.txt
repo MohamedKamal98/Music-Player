@@ -1,0 +1,112 @@
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\bin\Debug\My Playlist.exe.config
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\bin\Debug\My Playlist.exe
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\bin\Debug\My Playlist.pdb
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My_Playlist.Form1.resources
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My_Playlist.Properties.Resources.resources
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.GenerateResource.Cache
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My Playlist.exe
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My Playlist.pdb
+c:\users\mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.myMenu.resources
+C:\Users\Mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.ResolveComReference.cache
+C:\Users\Mido\documents\visual studio 2017\Projects\My Playlist\My Playlist\obj\Debug\My Playlist.csprojResolveAssemblyReference.cache
+D:\project & tasks\my visual projects\My Playlist\My Playlist\bin\Debug\My Playlist.exe.config
+D:\project & tasks\my visual projects\My Playlist\My Playlist\bin\Debug\My Playlist.exe
+D:\project & tasks\my visual projects\My Playlist\My Playlist\bin\Debug\My Playlist.pdb
+D:\project & tasks\my visual projects\My Playlist\My Playlist\bin\Debug\Interop.WMPLib.dll
+D:\project & tasks\my visual projects\My Playlist\My Playlist\bin\Debug\AxInterop.WMPLib.dll
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My Playlist.csprojAssemblyReference.cache
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\Interop.WMPLib.dll
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\AxInterop.WMPLib.dll
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.ResolveComReference.cache
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My_Playlist.Form1.resources
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My_Playlist.Properties.Resources.resources
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.GenerateResource.cache
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.CoreCompileInputs.cache
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My Playlist.exe
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My Playlist.pdb
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My_Playlist.All_Songs.resources
+D:\project & tasks\my visual projects\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.Song.resources
+C:\Users\Mido\Desktop\My Playlist\My Playlist\bin\Debug\My Playlist.exe.config
+C:\Users\Mido\Desktop\My Playlist\My Playlist\bin\Debug\My Playlist.exe
+C:\Users\Mido\Desktop\My Playlist\My Playlist\bin\Debug\My Playlist.pdb
+C:\Users\Mido\Desktop\My Playlist\My Playlist\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mido\Desktop\My Playlist\My Playlist\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.ResolveComReference.cache
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My_Playlist.All_Songs.resources
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My_Playlist.Form1.resources
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My_Playlist.playlists.resources
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My_Playlist.Properties.Resources.resources
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.Songaya.resources
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.GenerateResource.cache
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My Playlist.exe
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My Playlist.pdb
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My Playlist.csprojAssemblyReference.cache
+C:\Users\Mido\Desktop\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.CoreCompileInputs.cache
+E:\My Playlist\My Playlist\bin\Debug\My Playlist.exe.config
+E:\My Playlist\My Playlist\bin\Debug\My Playlist.exe
+E:\My Playlist\My Playlist\bin\Debug\My Playlist.pdb
+E:\My Playlist\My Playlist\bin\Debug\Interop.WMPLib.dll
+E:\My Playlist\My Playlist\bin\Debug\AxInterop.WMPLib.dll
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.csprojAssemblyReference.cache
+E:\My Playlist\My Playlist\obj\Debug\Interop.WMPLib.dll
+E:\My Playlist\My Playlist\obj\Debug\AxInterop.WMPLib.dll
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.ResolveComReference.cache
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.All_Songs.resources
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.Form1.resources
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.playlists.resources
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.Properties.Resources.resources
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.Songaya.resources
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.GenerateResource.cache
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.CoreCompileInputs.cache
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.exe
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.pdb
+E:\My Playlist\My Playlist\obj\Debug\CustomImageButton.ImageButtonCustom.resources
+E:\My Playlist\My Playlist\bin\Debug\Bunifu_UI_v1.52.dll
+E:\My Playlist\My Playlist\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.CopyComplete
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\My Playlist\My Playlist\obj\Debug\My Playlist.exe.config
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.b.resources
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.AddSongToPlaylistForm.resources
+E:\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.SongayaInPlaylist.resources
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\My Playlist.exe.config
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\My Playlist.exe
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\My Playlist.pdb
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\Bunifu_UI_v1.5.3.xml
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\Interop.WMPLib.dll
+F:\projects\Musically\My Playlist\My Playlist\bin\Debug\AxInterop.WMPLib.dll
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.csprojAssemblyReference.cache
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.exe.config
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\Interop.WMPLib.dll
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\AxInterop.WMPLib.dll
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.ResolveComReference.cache
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.b.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.AddSongToPlaylistForm.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.All_Songs.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.Form1.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\CustomImageButton.ImageButtonCustom.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.playlists.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.Properties.Resources.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.Songaya.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My_Playlist.User_controllers.SongayaInPlaylist.resources
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.GenerateResource.cache
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.CoreCompileInputs.cache
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.csproj.CopyComplete
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.exe
+F:\projects\Musically\My Playlist\My Playlist\obj\Debug\My Playlist.pdb
